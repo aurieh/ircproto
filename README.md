@@ -14,3 +14,13 @@ an unfinished state, so you might need to handle those yourself.
 ## Warning
 This library is in a very unfinished state. You probably shouldn't use it.
 PRs are welcome!
+
+### Things that work
+- Basic command messages
+- Basic server-sent events
+
+### Things that need to be implemented
+- DCC
+- SASL auth
+- RFC extension support
+- Non-standard reply codes (Unreal etc..)
